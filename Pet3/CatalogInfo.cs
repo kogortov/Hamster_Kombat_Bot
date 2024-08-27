@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Pet2
+namespace Hamster_Kombat
 {
     public class CatalogInfo
     {
